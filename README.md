@@ -8,4 +8,4 @@ Open [http://localhost:3000]to view it in your browser.
 npm install json-server -g
 
 ### `Then to run the server with the following command:`
-json-server --watch data/db.json
+json-server --watch data/db.json --port 3500
